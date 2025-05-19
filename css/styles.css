@@ -1,8 +1,10 @@
-.navbar-brand, .nav-link {
+.navbar-brand,
+.nav-link {
     color: #FFF !important;
 }
 
-.navbar-brand:hover, .nav-link:hover {
+.navbar-brand:hover,
+.nav-link:hover {
     color: #FFF;
 }
 
@@ -15,7 +17,7 @@
 .hero-page {
     min-height: 100vh;
     position: relative;
-    top: 0;    
+    top: 0;
 }
 
 .hero-video {
@@ -25,7 +27,7 @@
     top: 0;
     left: 0;
     z-index: -2;
-    object-fit: cover;    
+    object-fit: cover;
 }
 
 .hero-page::before {
