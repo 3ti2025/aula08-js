@@ -239,3 +239,87 @@ export const shows = [{
         banner: "images/image9.jpg"
     }
 ];
+
+/* ************* Objeto para criar a galeria ************ */
+export const galleryImages = [{
+        imagem: "images/image019.jpg",
+        descricao: "Guitarras distorcidas ecoam no palco"
+    },
+    {
+        imagem: "images/image0.jpg",
+        descricao: "Bateria pulsante agita a multidão"
+    },
+    {
+        imagem: "images/image2.jpg",
+        descricao: "Luzes intensas iluminam os músicos"
+    },
+    {
+        imagem: "images/image017.jpg",
+        descricao: "Público vibra com cada riff"
+    },
+    {
+        imagem: "images/image4.jpg",
+        descricao: "Solo de guitarra eletriza fãs"
+    },
+    {
+        imagem: "images/image6.jpg",
+        descricao: "Vocalista grita com pura emoção"
+    },
+    {
+        imagem: "images/image010.jpg",
+        descricao: "Pogo insano na frente do palco"
+    },
+    {
+        imagem: "images/image5.jpg",
+        descricao: "Cabelos voando no mosh pit"
+    },
+    {
+        imagem: "images/image014.jpg",
+        descricao: "Acordes pesados balançam o chão"
+    },
+    {
+        imagem: "images/image8.jpg",
+        descricao: "Fãs cantam juntos com paixão"
+    },
+    {
+        imagem: "images/image9.jpg",
+        descricao: "Som alto sacode as estruturas"
+    },
+    {
+        imagem: "images/image011.jpg",
+        descricao: "Gritos e aplausos enchem o ar"
+    },
+    {
+        imagem: "images/image012.jpg",
+        descricao: "Show começa com explosões visuais"
+    },
+    {
+        imagem: "images/image1.jpg",
+        descricao: "Música alta e energia crua"
+    },
+    {
+        imagem: "images/image013.jpg",
+        descricao: "Performance intensa e inesquecível ao vivo"
+    },
+    {
+        imagem: "images/image3.jpg",
+        descricao: "Fogos de artifício encerram apresentação"
+    },
+    {
+        imagem: "images/image015.jpg",
+        descricao: "Banda clássica levanta a plateia"
+    },
+    {
+        imagem: "images/image7.jpg",
+        descricao: "Ritmo acelerado empolga os fãs"
+    },
+    {
+        imagem: "images/image016.jpg",
+        descricao: "Multidão salta ao som pesado"
+    },
+    {
+        imagem: "images/image018.jpg",
+        descricao: "Clima eletrizante domina o festival"
+    },
+];
+  
